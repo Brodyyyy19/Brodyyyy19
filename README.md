@@ -1,8 +1,9 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:49108B,20:F3F8FF&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:27548A,20:F3F3E0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+  
+![e84d49ee-3b29-48dc-af65-352487c1a8af](https://github.com/user-attachments/assets/bba1d232-17d6-4651-b65c-548d7a533071)
 
-  ![Raiden Ei](https://github.com/user-attachments/assets/f82d82ca-7176-4771-b6ea-11830cf463b8)
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:49108B,100:F3F8FF&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:27548A,100:F3F3E0&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
 # Brodyyyy
 
@@ -26,5 +27,5 @@ Saya adalah seorang editor yang berfokus pada kualitas dan ketelitian. Dengan pe
 <hr><br>
 
 <a href="https://www.x.com/n4vrl0s3/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:49108B,20:F3F8FF&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:27548A,20:F3F3E0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 </a>
