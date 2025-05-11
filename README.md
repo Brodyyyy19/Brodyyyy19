@@ -1,9 +1,9 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:27548A,20:F3F3E0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:49108B,20:F3F8FF&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
-![รูปพื้นหลังHud Infographic กับโน้ตบุ๊คดีไซน์โพลีต่ำ พื้นหลัง, Hud, Infographic, สมุดบันทึกภาพพื้นหลังสำหรับการดาวน์โหลดฟรี - Pngtree](https://github.com/user-attachments/assets/1786d4d0-d4ae-4211-9b2b-9d84cd5899c5)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:27548A,100:F3F3E0&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+![Gambar WhatsApp 2025-05-11 pukul 23 28 36_25c18c11](https://github.com/user-attachments/assets/b1a67a55-f772-47ee-af3a-d83e62792f39)
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:49108B,100:F3F8FF&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
 # Brodyyyy
 
@@ -27,5 +27,5 @@ Saya adalah seorang editor yang berfokus pada kualitas dan ketelitian. Dengan pe
 <hr><br>
 
 <a href="https://www.x.com/n4vrl0s3/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:27548A,20:F3F3E0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:49108B,20:F3F8FF&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 </a>
