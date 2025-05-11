@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:27548A,20:F3F3E0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
-  
-![e84d49ee-3b29-48dc-af65-352487c1a8af](https://github.com/user-attachments/assets/bba1d232-17d6-4651-b65c-548d7a533071)
+
+![รูปพื้นหลังHud Infographic กับโน้ตบุ๊คดีไซน์โพลีต่ำ พื้นหลัง, Hud, Infographic, สมุดบันทึกภาพพื้นหลังสำหรับการดาวน์โหลดฟรี - Pngtree](https://github.com/user-attachments/assets/1786d4d0-d4ae-4211-9b2b-9d84cd5899c5)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:27548A,100:F3F3E0&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
